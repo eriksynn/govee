@@ -1,4 +1,4 @@
-# Tempurature Data Peaks Analysis Tool
+# Temperature Data Peaks Analysis Tool
 This is the workspace for my Govee Home temperature data analysis tool.
 
 The purpose of this tool is to estimate how often the heating system runs each day and compute the sum total over a downloaded sample period.
